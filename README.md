@@ -62,7 +62,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/breast-cancer-prediction.git
+git clone https://github.com/MuhammadZain942/breast-cancer-prediction.git
 cd breast-cancer-prediction
 Run the main script:
 
@@ -74,10 +74,6 @@ View the results for each model in the console.
 Contributing
 Contributions are welcome! If you'd like to add more models or visualizations, feel free to submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Let me know if you'd like any customization or additional sections!
 
 
 
